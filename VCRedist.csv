@@ -1,0 +1,13 @@
+Name,Url,Hash
+vcredist_80_2005_x64.exe,https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x64.exe,4487570bd86e2e1aac29db2a1d0a91eb63361fcaac570808eb327cd4e0e2240d
+vcredist_80_2005_x86.exe,https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.exe,8648c5fc29c44b9112fe52f9a33f80e7fc42d10f3b5b42b2121542a13e44adfd
+vcredist_90_2008_x64.exe,https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe,c5e273a4a16ab4d5471e91c7477719a2f45ddadb76c7f98a38fa5074a6838654
+vcredist_90_2008_x86.exe,https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe,8742bcbf24ef328a72d2a27b693cc7071e38d3bb4b9b44dec42aa3d2c8d61d92
+vcredist_100_2010_x64.exe,https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe,f3b7a76d84d23f91957aa18456a14b4e90609e4ce8194c5653384ed38dada6f3
+vcredist_100_2010_x86.exe,https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe,99dce3c841cc6028560830f7866c9ce2928c98cf3256892ef8e6cf755147b0d8
+vcredist_110_2012_x64.exe,https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe,681be3e5ba9fd3da02c09d7e565adfa078640ed66a0d58583efad2c1e3cc4064
+vcredist_110_2012_x86.exe,https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe,b924ad8062eaf4e70437c8be50fa612162795ff0839479546ce907ffa8d6e386
+vcredist_120_2013_x64.exe,https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe,a4bba7701e355ae29c403431f871a537897c363e215cafe706615e270984f17c
+vcredist_120_2013_x86.exe,https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe,53b605d1100ab0a88b867447bbf9274b5938125024ba01f5105a9e178a3dcdbd
+vcredist_140_2015-2022_x64.exe,https://download.visualstudio.microsoft.com/download/pr/c7dac50a-e3e8-40f6-bbb2-9cc4e3dfcabe/1821577409C35B2B9505AC833E246376CC68A8262972100444010B57226F0940/vc_redist.x64.exe,1821577409c35b2b9505ac833e246376cc68a8262972100444010b57226f0940
+vcredist_140_2015-2022_x86.exe,https://download.visualstudio.microsoft.com/download/pr/5319f718-2a84-4aff-86be-8dbdefd92ca1/DD1A8BE03398367745A87A5E35BEBDAB00FDAD080CF42AF0C3F20802D08C25D4/vc_redist.x86.exe,dd1a8be03398367745a87a5e35bebdab00fdad080cf42af0c3f20802d08c25d4

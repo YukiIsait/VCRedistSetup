@@ -1,0 +1,31 @@
+name: Package
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download
+        run: ./Download.ps1
+
+      - name: Package
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
+        with:
+          path: VCRedistSetup.iss
+          options: /O+ /OOutput /FVCRedistSetup
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          fail_on_unmatched_files: true
+          files: Output/VCRedistSetup.exe
